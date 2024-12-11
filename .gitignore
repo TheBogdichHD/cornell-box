@@ -1,6 +1,3 @@
-build/
-__pycache__
-imgui.ini
-*.out.*
-*.test.*
-out/
+/target
+output.png
+/out
